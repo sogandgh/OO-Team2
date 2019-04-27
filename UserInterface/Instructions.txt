@@ -1,0 +1,13 @@
+Instructions
+
+To Run the User Interface :  cd to the the directory and run java -jar UserInterface.jar
+
+Load a File : choose Browse File and pick a .asm assembly file
+
+Run a File : After file is loaded, Run File button will run the file 
+
+Run a File in One Step : After file is loaded, Run File in One Step runs the file in a single step
+
+View Registers : click on View Registers to view the set of registers
+
+Pause : Pause button pauses the execution. 
