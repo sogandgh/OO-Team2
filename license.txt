@@ -1,0 +1,6 @@
+
+-- modified for src directory--
+Author: Orvar Segerstrom
+Date: 2013
+Code version: 1.0
+Accesible: https://github.com/sidestep/mips-sim
