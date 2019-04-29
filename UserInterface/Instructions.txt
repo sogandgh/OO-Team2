@@ -1,13 +1,15 @@
 Instructions
 
-To Run the User Interface :  cd to the the directory and run java -jar UserInterface.jar
+To Run the User Interface :  cd to the the directory and run java -jar SImulator-Final.jar
 
-Load a File : choose Browse File and pick a .asm assembly file
+Browse :  choose Browse File and pick a test.asm assembly file
 
-Run a File : After file is loaded, Run File button will run the file 
+Load a File : Load a file after browsing it
 
-Run a File in One Step : After file is loaded, Run File in One Step runs the file in a single step
+Run a File : Run the assembly file
 
-View Registers : click on View Registers to view the set of registers
+Step: Run the assembly file step by step
 
-Pause : Pause button pauses the execution. 
+Reset: Reset the similar
+
+Stop : stop button stops the execution. 
